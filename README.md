@@ -31,8 +31,8 @@ Durante um apocalipse zumbi os sobreviventes precisam realizar algumas interaçõe
 
 ## Referências
 
-Itens
-Água        R$ 4,00
-Comida      R$ 3,00
-Medicamento R$ 2,00
-Munição     R$ 1,00
+### Itens:
+- Água        R$ 4,00
+- Comida      R$ 3,00
+- Medicamento R$ 2,00
+- Munição     R$ 1,00
