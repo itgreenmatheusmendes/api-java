@@ -19,10 +19,10 @@ Durante um apocalipse zumbi os sobreviventes precisam realizar algumas interaçõe
 3- Um sobrevivente poderá atualizar sua localização. Não é necessário gravar a localização anterior.
 
 4- Dois sobreviventes poderão trocar itens entre si, contanto que:
-	- Nenhum esteja infectado.
-	- O valor da troca seja igual para os dois lados (vide a tabela de referências dos itens).
-	- Ambos sobreviventes tenham recursos 0necessários para realizar a troca.
-	- Todos os itens existem na tabela de referências de itens.
+- Nenhum esteja infectado.
+- O valor da troca seja igual para os dois lados (vide a tabela de referências dos itens).
+- Ambos sobreviventes tenham recursos 0necessários para realizar a troca.
+- Todos os itens existem na tabela de referências de itens.
 
 5- Os sobreviventes poderão consultar a porcentagem de sobreviventes infectada e não infectada.
 
