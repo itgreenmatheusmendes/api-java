@@ -9,6 +9,8 @@ https://medium.com/assertqualityassurance/como-construir-e-testar-uma-api-em-jav
 # Escopo
 Durante um apocalipse zumbi os sobreviventes precisam realizar algumas interações e esta API tem como objetivo facilitá-las.
 
+A API deve ter a estrutura REST e neste momento não será necessário utilizar algum método de autenticação.
+
 
 ## A API deverá contar com as seguintes funcionalidades:
 
